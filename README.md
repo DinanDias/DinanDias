@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dinan Dias
 - 👀 I’m interested in Frontend and Backend Web Development
 - 🌱 I’m currently learning Top up in Software Engineering at London Metropolitan University
+- I'm working as a Software Engineering Intern
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on diasr3867@gmail.com.
 
